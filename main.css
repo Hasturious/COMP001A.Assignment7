@@ -56,3 +56,41 @@ h1 {
     text-decoration: none;
     background-color: #000000
 }
+
+/*TABLE STUFF*/
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #eeff00;
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    float: left;
+    left: 35%;
+    position: relative;
+    margin-top: 10em;
+  }
+  
+  td, th {
+    border: 1px solid #eeff00;
+    padding: 10px 20px;
+  }
+  
+  th {
+    background-color: #000000;
+  }
+  
+  td {
+    text-align: center;
+  }
+  
+  tr:nth-child(even) td {
+    background-color: #000000;
+  }
+  
+  tr:nth-child(odd) td {
+    background-color: #000000;
+  }
+  
+  caption {
+    padding: 10px;
+  }
