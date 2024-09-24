@@ -1,0 +1,44 @@
+body {
+    background-color: #303030;
+}
+
+body, h1, h2, p, ul, li, a {
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #eeff00;
+}
+
+
+
+/*The 3 chunks of CSS below were taken from the Lesson 6 Slides*/
+
+main, aside, footer {
+    margin: 0;
+    padding: 0px 20px;
+}
+
+aside {
+    margin: 0 20px 10px;
+    width: 150px;
+    float: right;
+}
+
+footer { clear: both; }
+
+nav a{
+    text-decoration: none;
+    padding: 3.75em;
+}
+
+
+.bordered-section {
+    border: 10px solid #eeff00;
+    padding: 5px; /* distance from inner content */
+    margin: 10px; /* distance from outer content */
+}
+
+.black-box {
+    text-decoration: none;
+    background-color: #000000
+}
