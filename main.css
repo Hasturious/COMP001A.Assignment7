@@ -27,7 +27,7 @@ aside {
     word-wrap: break-word;
 }
 
-/*position: absoulte prevents external factors from pushing the element around*/
+/*position: absolute prevents external factors from pushing the element around*/
 
 footer {
     float: left;
@@ -115,5 +115,6 @@ form {
   left : 45%;
   position : relative;
   margin-top : 10em;
+ }
 
-  }
+ 
