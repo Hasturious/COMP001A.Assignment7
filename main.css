@@ -39,7 +39,7 @@ footer {
 
 nav a{
     text-decoration: none;
-    padding: 3.75em;
+    padding: 3.5em;
 }
 
 h1 {
@@ -60,14 +60,14 @@ h1 {
 /*TABLE STUFF*/
 
 table {
-    border-collapse: collapse;
-    border: 2px solid #eeff00;
-    letter-spacing: 1px;
-    font-size: 0.8rem;
-    float: left;
-    left: 35%;
-    position: relative;
-    margin-top: 10em;
+  border-collapse : collapse;
+  border : #eeff00 solid 2px;
+  letter-spacing : 1px;
+  font-size : 0.8rem;
+  float : left;
+  left : 35%;
+  position : relative;
+  margin-top : 10em;
   }
   
   td, th {
@@ -93,4 +93,27 @@ table {
   
   caption {
     padding: 10px;
+  }
+
+form, {
+  border-collapse: collapse;
+    border: 2px solid #eeff00;
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    float: left;
+    left: 35%;
+    position: relative;
+    margin-top: 10em;
+}
+
+form {
+  border-collapse : collapse;
+  border : #eeff00 solid 15px;
+  letter-spacing : 3px;
+  font-size : 1rem;
+  float : left;
+  left : 45%;
+  position : relative;
+  margin-top : 10em;
+
   }
