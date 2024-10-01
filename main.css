@@ -99,15 +99,15 @@ table {
     padding: 10px;
   }
 
-form {
+#store-form {
   border-collapse : collapse;
   border : #eeff00 solid 15px;
   letter-spacing : 3px;
   font-size : 1rem;
   float : left;
-  left : 40%;
+  left : 28%;
   position : relative;
-  margin-top : 10em;
+  margin-top : 5em;
  }
 
  hr.solid {
