@@ -57,6 +57,10 @@ h1 {
     background-color: #000000
 }
 
+#purple-border {
+  border: #ee00ee solid 10px;
+}
+
 /*TABLE STUFF*/
 
 table {
