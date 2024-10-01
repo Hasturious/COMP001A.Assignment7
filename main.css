@@ -105,10 +105,22 @@ table {
   letter-spacing : 3px;
   font-size : 1rem;
   float : left;
-  left : 28%;
+  left : 25em;
   position : relative;
   margin-top : 5em;
  }
+
+ #checkout-form {
+  border-collapse : collapse;
+  border : #eeff00 solid 8px;
+  letter-spacing : 3px;
+  font-size : 1rem;
+  float : left;
+  left : 40em;
+  position : relative;
+  margin-top : 10em;
+ }
+
 
  hr.solid {
   border-top: 3px solid #eeff00;
