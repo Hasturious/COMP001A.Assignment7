@@ -86,14 +86,6 @@ table {
   td {
     text-align: center;
   }
-
-  tr:nth-child(even) td {
-    background-color: #000000;
-  }
-  
-  tr:nth-child(odd) td {
-    background-color: #000000;
-  }
  
   caption {
     padding: 10px;
